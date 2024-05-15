@@ -1,0 +1,38 @@
+.translate{
+    width: 20px;
+    height: 20px;
+    
+}
+.wrapper1 h3{
+    color: rgb(43, 22, 37);
+}
+
+.wrapper1 p{
+    color: blue;
+}
+
+.wrapper1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper2{
+    word-spacing: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(5, 83, 109);
+}
+.blok1 p{
+    line-height: 2;
+}
+.blok1 a{
+    text-decoration: none;
+}
+.blok2{
+    display: flex;
+    justify-content: space-between;
+}
+.blok2 img{
+   width: 150px;
+   height: 110px;
+}
